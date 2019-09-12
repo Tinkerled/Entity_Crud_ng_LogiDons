@@ -1,0 +1,38 @@
+[
+    {
+        "type": "File",
+        "name": "c:\\Users\\iluca\\source\\repos\\Entity_Crud_ng_LogiDons\\AngResto\\src\\app\\app.module.ts",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\iluca\\source\\repos\\Entity_Crud_ng_LogiDons\\AngResto\\src\\app\\app.module.ts",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "EIGCOo3g5T0hZSue"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\iluca\\source\\repos\\Entity_Crud_ng_LogiDons\\AngResto\\src\\app\\orders\\order\\order.component.html",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\iluca\\source\\repos\\Entity_Crud_ng_LogiDons\\AngResto\\src\\app\\orders\\order\\order.component.html",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "19se7rLGBkUbuS58"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\iluca\\source\\repos\\Entity_Crud_ng_LogiDons\\AngResto\\src\\app\\shared\\order.service.ts",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\iluca\\source\\repos\\Entity_Crud_ng_LogiDons\\AngResto\\src\\app\\shared\\order.service.ts",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "31ZtMElW26SiA8gF"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\iluca\\source\\repos\\Entity_Crud_ng_LogiDons\\AngResto\\src\\styles.css",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\iluca\\source\\repos\\Entity_Crud_ng_LogiDons\\AngResto\\src\\styles.css",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "bNJt25rzAEIWUuiD"
+    }
+]
