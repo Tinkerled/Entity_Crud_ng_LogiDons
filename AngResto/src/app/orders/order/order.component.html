@@ -60,7 +60,11 @@
       <th>Price</th>
       <th>Quantity</th>
       <th>Total</th>
-      <th>(actions)</th>
+      <th>
+        <a class="btn btn-sm btn-success text-white" 
+        (click)="AddOrEditOrderItem(null, service.formData.OrderID)">
+        <i class="fa fa-plus"></i> Add Item</a>
+      </th>
     </thead>
     <tbody>
       <!-- Order items table -->
@@ -70,12 +74,14 @@
         </td>
       </tr>
 
-      <tr *ngFor="let item of service.orderItems">
+      <tr *ngFor="let item of service.orderItems; let i=index;">
         <td>{{item.ItemName}}</td>
         <td>{{item.Price}}</td>
         <td>{{item.Quantity}}</td>
         <td>{{item.Total}}</td>
-        <td>action</td>
+        <td><a class="btn btn-sm btn-info text-white" 
+          (click)="AddOrEditOrderItem(i, service.formData.OrderID)">
+          <i class="fa fa-pencil"></i></a></td>
       </tr>
     </tbody>
   </table>
